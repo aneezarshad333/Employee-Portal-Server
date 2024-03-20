@@ -1,0 +1,74 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "admin@demoapp.com",
+      "password": "demoapp123",
+      "name": "Neo",
+      "profile_pic": "data:image/png;base64,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"
+    },
+    {
+      "id": "6c4e",
+      "empId": "EMP100",
+      "name": "Max Miller",
+      "email": "maxmiller@gmail.com",
+      "status": "1"
+    },
+    {
+      "id": "a1ef",
+      "empId": "EMP102",
+      "name": "Ana Steel",
+      "email": "anasteel@gmail.com",
+      "status": "0"
+    },
+    {
+      "id": "9d1a",
+      "empId": "EMP103",
+      "name": "Max Wayne Miller",
+      "email": "max@gmail.com",
+      "status": "1"
+    },
+    {
+      "id": "9d3e",
+      "empId": "EMP104",
+      "name": "Alek Vasili ",
+      "email": "alek@gmail.com",
+      "status": "1"
+    },
+    {
+      "id": "a1c1",
+      "empId": "EMP105",
+      "name": "Ervin Howell",
+      "email": "Shanna@melissa.tv",
+      "status": "0"
+    },
+    {
+      "id": "50c0",
+      "empId": "EMP106",
+      "name": "Clementine Bauch",
+      "email": "Nathan@yesenia.net",
+      "status": "1"
+    },
+    {
+      "id": "aea8",
+      "empId": "EMP107",
+      "name": "Patricia Lebsack",
+      "email": "Julianne.OConner@kory.org",
+      "status": "0"
+    },
+    {
+      "id": "a9c0",
+      "empId": "EMP108",
+      "name": "Chelsey Dietrich",
+      "email": "Lucio_Hettinger@annie.ca",
+      "status": "0"
+    },
+    {
+      "id": "388f",
+      "empId": "AK47",
+      "name": "Kalashnikavo",
+      "email": "ak47@counterstrike.com",
+      "status": "1"
+    }
+  ]
+}
